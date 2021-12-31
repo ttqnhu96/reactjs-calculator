@@ -1,0 +1,92 @@
+[
+    {
+        "value": "7",
+        "className": "normal-button",
+        "method": "this.inputNumber(7)"
+    },
+    {
+        "value": "8",
+        "className": "normal-button",
+        "method": "this.inputNumber(8)"
+    },
+    {
+        "value": "9",
+        "className": "normal-button",
+        "method": "this.inputNumber(9)"
+    },
+    {
+        "value": "/",
+        "className": "normal-button",
+        "method": "this.inputOperator('/')"
+    },
+    {
+        "value": "CE",
+        "className": "normal-button",
+        "method": "this.clearLatestInput()"
+    },
+    {
+        "value": "4",
+        "className": "normal-button",
+        "method": "this.inputNumber(4)"
+    },
+    {
+        "value": "5",
+        "className": "normal-button",
+        "method": "this.inputNumber(5)"
+    },
+    {
+        "value": "6",
+        "className": "normal-button",
+        "method": "this.inputNumber(6)"
+    },
+    {
+        "value": "*",
+        "className": "normal-button",
+        "method": "this.inputOperator('*')"
+    },
+    {
+        "value": "C",
+        "className": "normal-button",
+        "method": "this.clearAll()"
+    },
+    {
+        "value": "1",
+        "className": "normal-button",
+        "method": "this.inputNumber(1)"
+    },
+    {
+        "value": "2",
+        "className": "normal-button",
+        "method": "this.inputNumber(2)"
+    },
+    {
+        "value": "3",
+        "className": "normal-button",
+        "method": "this.inputNumber(3)"
+    },
+    {
+        "value": "-",
+        "className": "normal-button",
+        "method": "this.inputOperator('-')"
+    },
+    {
+        "value": "0",
+        "className": "zero-button",
+        "method": "this.inputNumber(0)"
+    },
+    {
+        "value": ".",
+        "className": "normal-button",
+        "method": "this.inputDecimalPoint('.')"
+    },
+    {
+        "value": "+",
+        "className": "normal-button",
+        "method": "this.inputOperator('+')"
+    },
+    {
+        "value": "=",
+        "className": "equal-button",
+        "method": "this.executeCalculation()"
+    }
+]
